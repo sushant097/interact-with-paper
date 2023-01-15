@@ -1,20 +1,6 @@
 # talktopapers
 
-Parsing papers is the first step. It can be done in two ways.
+A project to let you upload a paper to your drive and talk to it using Open AI's text embeddings. [Open the Colab](https://colab.research.google.com/drive/1jIZ-ezTIxAjnZfvcwc66ucRHTTxeMYeC?usp=sharing)
 
-1. Via commandline
-```
-# Example
-python parse_paper.py --pdf-url http://export.arxiv.org/pdf/1706.03762.pdf
-
-
-# Usage
-usage: parse_paper.py [-h] [--arxiv-id ARXIV_ID] [--pdf-url PDF_URL]
-
-optional arguments:
-  -h, --help           show this help message and exit
-  --arxiv-id ARXIV_ID  Use the arxiv id of the paper
-  --pdf-url PDF_URL    URL to the pdf of the paper
-```
-2. Interactive, in the jupyter notebook.
+Contributors: [@keerthanpg](www.github.com/keerthanpg), [@nuwandavek](www.github.com/nuwandavek)
 
