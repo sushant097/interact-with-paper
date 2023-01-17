@@ -1,0 +1,11 @@
+pypdf
+wget
+PyPDF2
+openai
+pandas
+arxiv
+streamlit
+matplotlib
+plotly
+scipy
+scikit-learn
