@@ -21,6 +21,7 @@ def search(df, query, n=3, pprint=True):
     )
     return results
 
+
 @st.cache(allow_output_mutation=True)
 def process_file(file):
     print('[INFO] Processing and calc embeddings')
