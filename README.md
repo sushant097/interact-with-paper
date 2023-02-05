@@ -34,6 +34,3 @@ streamlit run main.py
 ![](files/InteractWithPaperDemo_final.gif)
 
 
-### References
-[@keerthanpg](https://github.com/keerthanpg/talktopapers)
-
