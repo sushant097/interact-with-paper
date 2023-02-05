@@ -1,4 +1,5 @@
 pypdf
+pymupdf
 wget
 PyPDF2
 openai
